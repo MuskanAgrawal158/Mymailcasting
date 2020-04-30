@@ -24,21 +24,21 @@ Objective/ Vision
 This project is a mailcasting system which allows you to register yourself once and then access us by logging in anytime. It allows you to compose your mail and send it to any valid id. This project is based on MVC Architecture where m stands for model contains the actual business logic contained in java classes, v stands for View contains the front end pages designed by JSP, CSS and html pages also the c which stands for controller contains the servlet pages.
 Here are some diagrams which represents the project more elaborately
 View Diagram
-![](images/dia1.PNG)
-![](images/dia2.PNG)
-![](images/dia3.PNG)
-![](images/dia4.PNG)
-![](images/dia5.PNG)
-![](images/dia6.PNG)
-![](images/dia7.PNG)
+![](images/dia1.png)
+![](images/dia2.png)
+![](images/dia3.png)
+![](images/dia4.png)
+![](images/dia5.png)
+![](images/dia6.png)
+![](images/dia7.png)
 Page1: Login Page tells the details about system and allows already registered user to login and new user to register.
-![](images/Screenshot1.PNG)
+![](images/Screenshot1.png)
 Page2: Registration page where a new user with very few details and get themselves registered. Once registered properly it directs to login page to login to the site.
-![](images/screenshot2.PNG)
+![](images/screenshot2.png)
 Page3: Once login it directs to home page where all the facilities of this project can be accesed.
-![](images/screenshot3.PNG)
+![](images/screenshot3.png)
 Page 4: This page allow you to compose your mail with a subject and then send it to desired person. If successfully sent it forward user to home page else reloads the compose page. 
-![](images/screenshot4.PNG)
-Page5: Inbox Page shows you all the mails that you have received from various senders with the date they had send. ![](images/screenshot5.PNG)
+![](images/screenshot4.png)
+Page5: Inbox Page shows you all the mails that you have received from various senders with the date they had send. ![](images/screenshot5.png)
 Page6: Contact Page This page shows the contact details of the owner and a user can consult in case of any queries.
- ![](images/screenshot6.PNG)
+ ![](images/screenshot6.png)
